@@ -1,6 +1,8 @@
 # Recent Advance in Adversarial Attack and Defense for Recommendation System
 
-This repository aims to provide links of recent advance in adversaria attack and defense fo recommendation System
+This repository aims to provide links of recent advance in adversaria attack and defense fo recommendation System.
+
+Welcome to contact me if you are also interested in this field!
 
 
 ## Content
