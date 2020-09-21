@@ -18,11 +18,11 @@ This repository aims to provide links of recent advance in adversaria attack and
 
 <span id="jump_attack"> </span>
 ## 2. Attack Papers
-[1]. **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems**.
+[1]. **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems**.[[paper]()] [[code]()]  
 *Minghong Fang, Neil Zhenqiang Gong, Jia Liu*. WWW, 2020.
 
-[2]. **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems**. 
-*Yuanjiang Cao, Xiaocong Chen, Lina Yao, Xianzhi Wang, Wei Emma Zhang*. SIGIR, 2020.[[paper]()] [[code]()]
+[2]. **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems**.[[paper]()] [[code]()]   
+*Yuanjiang Cao, Xiaocong Chen, Lina Yao, Xianzhi Wang, Wei Emma Zhang*. SIGIR, 2020.
 
 
 
