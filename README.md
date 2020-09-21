@@ -5,16 +5,26 @@ This repository aims to provide links of recent advance in adversaria attack and
 
 ## Content
 1. [Survey Papers](#jump_survey)
-2. [Attack Papers](https://github.com/CaoQi92/recommendation-adversarial-attack-papers/edit/master/README.md)
+2. [Attack Papers](#jump_attack)
    1. Attack for CF
    2. Attack for GNN
-3. [Defense Papers](https://github.com/CaoQi92/recommendation-adversarial-attack-papers/edit/master/README.md)
+3. [Defense Papers](#jump_defense)
 
 
 
-<span id="jump_survey">survey papers</span>
+<span id="jump_survey"> </span>
 ## 1. Survey Papers
 
 
-
+<span id="jump_attack"> </span>
 ## 2. Attack Papers
+[1]. **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems**.
+*Minghong Fang, Neil Zhenqiang Gong, Jia Liu*. WWW, 2020.
+
+[2]. **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems**. 
+*Yuanjiang Cao, Xiaocong Chen, Lina Yao, Xianzhi Wang, Wei Emma Zhang*. SIGIR, 2020.[[paper]()] [[code]()]
+
+
+
+<span id="jump_defense"> </span>
+## 3. Defense Papers
