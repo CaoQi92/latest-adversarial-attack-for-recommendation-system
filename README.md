@@ -20,7 +20,7 @@ Welcome to contact me if you are also interested in this field!
 
 <span id="jump_attack"> </span>
 ## 2. Attack Papers
-[1]. **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems**.[[paper]()] [[code]()]  
+[1]. **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems**.[[paper](https://github.com/CaoQi92/recommendation-adversarial-attack-papers/raw/master/KDD'19%20Learning%20Dynamic%20Context%20Graphs%20for%20Predicting%20Social%20Events.pdf)] [[code]()]  
 *Minghong Fang, Neil Zhenqiang Gong, Jia Liu*. WWW, 2020.
 
 [2]. **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems**.[[paper]()] [[code]()]   
