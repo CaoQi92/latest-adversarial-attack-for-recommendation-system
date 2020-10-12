@@ -23,13 +23,13 @@ Welcome to contact me if you are also interested in this field!
 [1]. **Influence Function based Data Poisoning Attacks to Top-N Recommender Systems**.[[paper](https://github.com/CaoQi92/recommendation-adversarial-attack-papers/raw/master/KDD'19%20Learning%20Dynamic%20Context%20Graphs%20for%20Predicting%20Social%20Events.pdf)] [[code]()]  
 *Minghong Fang, Neil Zhenqiang Gong, Jia Liu*. WWW, 2020.
 
-[]. **Practical Data Poisoning Attack against Next-Item Recommendation**[[paper]()][[code]()][[data]()]
+[]. **Practical Data Poisoning Attack against Next-Item Recommendation**[[paper]()][[code]()][[data]()]  
 *Hengtong Zhang, Yaliang Li, Bolin Ding, Jing Gao*. WWW, 2020.
 
 [2]. **Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems**.[[paper]()] [[code]()]   
 *Yuanjiang Cao, Xiaocong Chen, Lina Yao, Xianzhi Wang, Wei Emma Zhang*. SIGIR, 2020.
 
-[3]. **Revisiting Adversarially Learned Injection Attacks Against Recommender Systems**[[paper]()][[code]()][[data]()]
+[3]. **Revisiting Adversarially Learned Injection Attacks Against Recommender Systems**[[paper]()][[code]()][[data]()]  
 *Jiaxi Tang, Hongyi Wen, Ke Wang*. RecSys, 2020.
 
 
